@@ -24,3 +24,6 @@ node_modules/
 
 # Brunch output folder.
 public/
+
+# Per an interesting articile: https://addyosmani.com/blog/checking-in-front-end-dependencies/
+# bower_components/
