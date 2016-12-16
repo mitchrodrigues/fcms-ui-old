@@ -1,0 +1,23 @@
+{
+  "name": "fcms",
+  "version": "0.0.1",
+  "authors": [
+    "Mitch Rodrigues"
+  ],
+  "license": "MIT",
+  "private": "true",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.11.1",
+    "font-awesome": "^4.6.3"
+  },
+  "font-awesome": {
+    "main": ["fonts", "css"]
+  }
+}

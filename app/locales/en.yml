@@ -1,0 +1,10 @@
+AUTH:
+  LOGIN_INVALID: "Invalid email/password"
+
+ERROR:
+  MISSING_PARAMS: "The form you have entered is invalid"
+
+SEARCH:
+  NO_RESULTS: "Their are no records matching your search"
+
+  
